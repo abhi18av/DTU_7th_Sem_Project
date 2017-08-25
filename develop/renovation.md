@@ -18,10 +18,8 @@
 ## 25 August 2017
 
 ``` 
-conda install -c anaconda jupyter 
 pip install tweepy
-conda install -c anaconda nltk 
-conda install -c anaconda pandas matplotlib numpy bokeh
+conda install -c anaconda jupyter pandas matplotlib numpy bokeh nltk 
 
 
 ```
