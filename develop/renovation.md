@@ -14,3 +14,14 @@
 - `pip install cookiecutter`
 
 - Moving the project to this template `cookiecutter https://github.com/drivendata/cookiecutter-data-science`
+
+## 25 August 2017
+
+``` 
+conda install -c anaconda jupyter 
+pip install tweepy
+conda install -c anaconda nltk 
+conda install -c anaconda pandas matplotlib numpy bokeh
+
+
+```
