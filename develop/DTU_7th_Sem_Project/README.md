@@ -3,6 +3,11 @@ Banning Spree in India - 2016
 
 An analysis of the banning spree in India, 2016
 
+#TODO
+
+- Make a custom cookiecutter for Rakefile and (j)Ruby-2.3.3
+
+
 Project Organization
 ------------
 
