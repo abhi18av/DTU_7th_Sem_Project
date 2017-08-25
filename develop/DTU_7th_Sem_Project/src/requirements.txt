@@ -1,0 +1,9 @@
+pandas==0.20.3
+click==6.7
+numpy==1.13.1
+matplotlib==2.0.2
+bokeh==0.12.6
+nltk==3.2.4
+tweepy==3.5.0
+python-dotenv==0.6.5
+six==1.10.0
